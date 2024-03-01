@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+logs/
+
+# ignore ALL files conf json
+*.json
+
+__pycache__/

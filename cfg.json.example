@@ -1,0 +1,8 @@
+{
+    "api_url": "<project_name>.atlassian.net",
+    "sleep_interval": 5,
+    "email": "<your_email>",
+    "jitter_time": 3,
+    "project_key": "<not required>",
+    "api_key": "<your_api>"
+}
